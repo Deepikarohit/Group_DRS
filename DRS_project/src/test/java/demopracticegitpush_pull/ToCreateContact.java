@@ -6,6 +6,7 @@ public class ToCreateContact {
 
 
 		System.out.println("Contact got created");
+		System.out.println("Select organization in create contact");
 
 	}
 
