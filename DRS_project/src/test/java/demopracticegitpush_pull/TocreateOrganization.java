@@ -6,6 +6,7 @@ public class TocreateOrganization {
 
 
 		System.out.println("Organization got created");
+		System.out.println("Organization name updated sucessfully");
 
 	}
 
